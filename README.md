@@ -4,8 +4,7 @@ Google Search and Google Image Search built using HTML &amp; CSS
 
 
 <h2><strong>To view the website : </strong></h2>
-<h5>(click the google logo)</h5> <br>
-<a href="https://arssambasha.github.io/Google-Clone/"> &nbsp; &nbsp; &nbsp; <img src="https://github.com/arssambasha/Google-Clone/assets/70753519/d0b90819-1e6d-4711-8441-89a38559726e" width="80px"> </a>
+<h1><a href="https://arssambasha.github.io/Google-Clone/"> ▧↦ Click Here ↤▧ </a></h1>
 
 <br>
 <h3>Here's the screenshots of the clone websites!👇 </h3>
